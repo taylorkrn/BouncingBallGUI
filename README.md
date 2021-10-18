@@ -3,7 +3,7 @@
 
 
 <img src="https://raw.githubusercontent.com/taylorkrn/BouncingBallGUI/main/images/BallCourt.png"
-        style="align: center;" />
+        style="align: center; float: center" />
 
 # Bouncing Ball GUI
 
