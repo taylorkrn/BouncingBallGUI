@@ -19,4 +19,4 @@ Created in BlueJ as a part of the 'Practical Computer Science' courses at the Un
     style="float: left; margin-right: 10px;"
     width="200"/>
 
-
+The graphical interface facilitates the creation, deletion, saving and loading of ball courts.
