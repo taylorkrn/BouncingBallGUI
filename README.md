@@ -2,7 +2,8 @@
 
 
 
-![BallCourt 1](https://raw.githubusercontent.com/taylorkrn/BouncingBallGUI/main/images/BallCourt.png)
+<img src="https://raw.githubusercontent.com/taylorkrn/BouncingBallGUI/main/images/BallCourt.png"
+        style="float: center;" />
 
 # Bouncing Ball GUI
 
