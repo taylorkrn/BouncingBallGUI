@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ is\ called\ without\ parameters\r\n\ and\ sets\ up\ the\ graphical\ user\ interface.\r\n\ After\ that,\ a\ non-terminating\ update\ loop\r\n\ is\ entered\ which\ triggers\ updates\ to\ te\ GUI\ state\r\n\ every\ 10ms.\r\n
+numComments=2
