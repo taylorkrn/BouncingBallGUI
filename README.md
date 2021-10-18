@@ -6,7 +6,7 @@
 
 # Bouncing Ball GUI
 
-# Graphical User Interface modelling a ball moving through space and a pad following its path
+## Graphical User Interface modelling a ball moving through space and a pad following its path
 
 
 <img src="https://raw.githubusercontent.com/taylorkrn/BouncingBallGUI/main/images/GUI%20Control.png"
